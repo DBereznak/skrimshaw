@@ -1,2 +1,2 @@
-# new_portfolio_site
-This is the development of my personal portfolio website
+# This is a backend prototype for website
+This is the backend development of my personal portfolio website
